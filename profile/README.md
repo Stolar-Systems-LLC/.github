@@ -39,6 +39,9 @@ Case studies and technical writeups are published on [stolarsystems.com](https:/
 ## Let's figure it out, together
 
 📧 [jfeldman@stolarsystems.com](mailto:jfeldman@stolarsystems.com)
+
 🌐 [stolarsystems.com](https://www.stolarsystems.com)
+
 💼 [LinkedIn](https://www.linkedin.com/company/stolar-systems-llc)
+
 📍 Somerville, MA · Est. 2026
